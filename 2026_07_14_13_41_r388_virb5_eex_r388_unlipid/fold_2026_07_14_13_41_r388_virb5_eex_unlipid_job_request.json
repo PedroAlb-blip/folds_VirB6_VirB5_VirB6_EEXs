@@ -1,0 +1,25 @@
+[{
+ "name": "2026-07-14_13:41_R388_VirB5_EEX_unlipid",
+ "modelSeeds": [
+  "1656609329"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "QGIPVFDGTRALDFVQQFARMKEQLDTAKDQLAEAQRMYEAVTGGRGLGDLMRNAQLREYLPDDLRTVYDSANGGGYSGISGSINDILRDERLNGSVADMRRSIEERSRTARTTDKAVGCGPTKGHSNASRRLKDEISRTQDQKAIEELQARIAGEQAAIQNETTKLQMIAQLRQAEQALISEQRRERNMPILSSGNQGMPTIQ",
+    "count": 5,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "CKDEPTHDVQYYLDNPKERTEKIAECKNNPGEKALAANCVNATEAQRKAMFQGDGMPKIR",
+    "count": 5,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
